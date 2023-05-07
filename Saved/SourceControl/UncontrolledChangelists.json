@@ -10,7 +10,8 @@
 				"D:/Learning/LearningGame/Content/StarterContent/Props/Materials/M_TableRound.uasset",
 				"D:/Learning/LearningGame/Content/Maps/FirstMap.umap",
 				"D:/Learning/LearningGame/Content/Maps/FirstMap_BuiltData.uasset",
-				"D:/Learning/LearningGame/Content/Blueprints/BP_Cube.uasset"
+				"D:/Learning/LearningGame/Content/Blueprints/BP_Cube.uasset",
+				"D:/Learning/LearningGame/Content/Blueprints/DP_FirstPawn.uasset"
 			]
 		}
 	]
