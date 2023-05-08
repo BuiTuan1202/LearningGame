@@ -11,7 +11,11 @@
 				"D:/Learning/LearningGame/Content/Maps/FirstMap.umap",
 				"D:/Learning/LearningGame/Content/Maps/FirstMap_BuiltData.uasset",
 				"D:/Learning/LearningGame/Content/Blueprints/BP_Cube.uasset",
-				"D:/Learning/LearningGame/Content/Blueprints/DP_FirstPawn.uasset"
+				"D:/Learning/LearningGame/Content/Blueprints/DP_FirstPawn.uasset",
+				"D:/Learning/LearningGame/Content/Inputs/IMC_Defaulf.uasset",
+				"D:/Learning/LearningGame/Content/Inputs/IA_moveLeft.uasset",
+				"D:/Learning/LearningGame/Content/Inputs/IA_moveHorizontal.uasset",
+				"D:/Learning/LearningGame/Content/Inputs/IA_movel.uasset"
 			]
 		}
 	]
