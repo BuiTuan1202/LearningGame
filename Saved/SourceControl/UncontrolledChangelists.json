@@ -13,12 +13,16 @@
 				"D:/Learning/LearningGame/Content/Blueprints/BP_Cube.uasset",
 				"D:/Learning/LearningGame/Content/Blueprints/DP_FirstPawn.uasset",
 				"D:/Learning/LearningGame/Content/Inputs/IMC_Defaulf.uasset",
-				"D:/Learning/LearningGame/Content/Inputs/IA_moveLeft.uasset",
-				"D:/Learning/LearningGame/Content/Inputs/IA_movel.uasset",
-				"D:/Learning/LearningGame/Content/Blueprints/GameModes/BP_FirstGameMode.uasset",
 				"D:/Learning/LearningGame/Content/Inputs/Input_action/IA_moveLeft.uasset",
 				"D:/Learning/LearningGame/Content/Inputs/Input_action/IA_movel.uasset",
 				"D:/Learning/LearningGame/Content/Inputs/Input_action/IA_look.uasset",
+				"D:/Learning/LearningGame/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"D:/Learning/LearningGame/Content/Blueprints/BP_FirstCharacter.uasset",
+				"D:/Learning/LearningGame/Content/Blueprints/GameModes/BP_GameMode.uasset",
+				"D:/Learning/LearningGame/Content/Blueprints/ABP_FisrtAnimation.uasset",
+				"D:/Learning/LearningGame/Content/Blueprints/GameModes/BP_FirstGameMode.uasset",
+				"D:/Learning/LearningGame/Content/Inputs/IA_moveLeft.uasset",
+				"D:/Learning/LearningGame/Content/Inputs/IA_movel.uasset",
 				"D:/Learning/LearningGame/Content/Inputs/IA_moveHorizontal.uasset"
 			]
 		}
